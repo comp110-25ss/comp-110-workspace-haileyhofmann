@@ -13,3 +13,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+type(5 + int(3.0) / int("2"))
